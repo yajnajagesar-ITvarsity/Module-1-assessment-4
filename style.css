@@ -1,0 +1,22 @@
+th {
+    font-weight: 700;
+    color:white;
+    font-style:oblique;
+    background-color: teal;
+}
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-collapse:collapse;
+    border-style: groove;
+    border-color: rgb(1, 2, 2);
+    border-top: rgb(1, 8, 7);
+    background-origin:content-box;
+    color: rgb(8, 1, 8);
+}
+td {
+    font-weight: 500;
+    font-style: oblique;
+    background-color:whitesmoke;
+    padding-left: 70px;
+    padding-right: 70px;
+}
